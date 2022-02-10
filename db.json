@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "unu",
+      "lastName": "nunu",
+      "email": "unu@nunu.com",
+      "mobile": "11111111",
+      "salary": "11"
+    },
+    {
+      "id": 3,
+      "firstName": "45",
+      "lastName": "77",
+      "email": "66",
+      "mobile": "55",
+      "salary": "4"
+    },
+    {
+      "id": 6,
+      "firstName": "doi",
+      "lastName": "doi",
+      "email": "doi",
+      "mobile": "22222",
+      "salary": "5555"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
