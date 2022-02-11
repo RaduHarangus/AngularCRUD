@@ -36,4 +36,11 @@ export class ApiService {
         return res;
       }))
   }
+
+  postSignupData(data: any) {
+    return this.http.post<any>("http://localhost:3000/signupUsers", data)
+      .pipe(map((res: any) => {
+        return res;
+      }))
+  }
 }

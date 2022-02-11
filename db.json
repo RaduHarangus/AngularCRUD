@@ -25,6 +25,43 @@
       "salary": "5555"
     }
   ],
+  "signupUsers": [
+    {
+      "fullName": "name",
+      "email": "aha",
+      "password": "bla",
+      "mobile": 101,
+      "id": 1
+    },
+    {
+      "fullName": "32",
+      "email": "3",
+      "password": "2",
+      "mobile": 2,
+      "id": 2
+    },
+    {
+      "fullName": "23",
+      "email": "32",
+      "password": "32",
+      "mobile": 23,
+      "id": 3
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "password": "",
+      "mobile": null,
+      "id": 4
+    },
+    {
+      "fullName": "5",
+      "email": "5",
+      "password": "5",
+      "mobile": 5,
+      "id": 5
+    }
+  ],
   "comments": [],
   "profile": {
     "name": "typicode"
